@@ -68,9 +68,6 @@ footer{
     margin: 27px auto;
 }
 
-video {
-    object-fit: fill;
-}
 .link{
     display: block;
     margin-bottom: 22px;
