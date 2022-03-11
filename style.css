@@ -96,8 +96,8 @@ video {
 .link img{
     display: block;
 
-    width: 35px;
-    height: 35px;
+    width: 30px;
+    height: 30px;
     
     position: absolute;
     margin: -6.6px auto;
@@ -122,15 +122,6 @@ video {
     filter: invert(13%) sepia(1%) saturate(1134%) hue-rotate(34deg) brightness(98%) contrast(93%);
 }
 
-.container01 {
-    display: flex;
-}
-
-.container01 video{
-    justify-content: center;
-}
-
-.video-css {
-    width: 720;
-    height: 405;
+.tutor01 {
+    font-size: 15px;
 }
